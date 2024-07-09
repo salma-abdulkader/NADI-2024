@@ -1,5 +1,3 @@
-# NADI-2024
-
 # Nuanced Arabic Dialect Identification Shared Task Series (NADI)
 
 This repository lists information relevant to the Nuanced Arabic Dialect Identification Shared Task Series (NADI).
