@@ -26,18 +26,6 @@ To download the data you need to fill the registration form. [link](https://docs
 - **Subtask 2.1:** Province-level MSA identification: A total of 21,000 tweets, covering 100 provinces. [CODALAB link](https://competitions.codalab.org/competitions/27770)
 - **Subtask 2.2:** Province-level DA identification: A total of 21,000 tweets, covering 100 provinces. [CODALAB link](https://competitions.codalab.org/competitions/27771)
 
-
-## Please cite NADI 2021 as follows:
-```
-@inproceedings{mageed:2021:nadi,
-    author = {Abdul-Mageed, Muhammad and Zhang, Chiyu and Elmadany, AbdelRahim and Bouamor, Houda and Habash, Nizar}, 
-    title = {{NADI 2021: The Second Nuanced Arabic Dialect Identification Shared Task}},
-    booktitle ={Proceedings of the Sixth {A}rabic Natural Language Processing Workshop (WANLP 2021)},
-    year = {2021},
-}
-
-```
-
 <hr>
 
 # NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task
