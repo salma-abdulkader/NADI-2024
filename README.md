@@ -47,15 +47,4 @@ To download the data you need to fill the registration form. [link](https://docs
 - **(2) Subtask 2** Province-level dialect identification. A total of 21,000 tweets, covering 100 provinces from all 21 Arab countries. This is the same dataset as in Subtask 1, but with province labels.
 [CODALAB link](https://competitions.codalab.org/competitions/24002?secret_key=53f14ab8-7db2-4011-9418-c95ee3b7ea2c)
 
-## Please cite NADI 2020 as follows:
-```
 
-@inproceedings{mageed:2020:nadi,
-  title={{NADI 2020: The First Nuanced Arabic Dialect Identification Shared Task}},
-  author={Abdul-Mageed, Muhammad and Zhang, Chiyu and Bouamor, Houda and Habash, Nizar},
-  booktitle={Proceedings of the Fifth Arabic Natural Language Processing Workshop},
-  pages={97--110},
-  year={2020}
-}
-
-```
